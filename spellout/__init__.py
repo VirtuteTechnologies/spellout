@@ -1,0 +1,1 @@
+from spellout.app import app

@@ -1,0 +1,6 @@
+jwt
+flask_mail
+flask_restful
+flask_couchdb
+azure-cognitiveservices-speech
+gunicorn
